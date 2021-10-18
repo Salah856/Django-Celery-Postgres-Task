@@ -1,6 +1,6 @@
-# Django-Celery-Postgres-Task
 
-# docker-django-redis-celery
+## docker-django-redis-celery
+
 Initial configuration of Docker Django Redis Celery
 
 ## Getting Started
