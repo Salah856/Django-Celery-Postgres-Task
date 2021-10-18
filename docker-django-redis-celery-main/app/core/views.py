@@ -5,6 +5,7 @@ import os
 from app.app.settings import API_KEY
 
 
+
 def postExchangeRate():
     url = 'https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=BTC&to_currency=CNY&apikey=' + API_KEY
     res = requests.get(url)
