@@ -7,6 +7,7 @@ This project works on Python 3+ and Django 2+.
 
 First:
 
+
 ```
 cd django-celery-postgres-main 
 ```
